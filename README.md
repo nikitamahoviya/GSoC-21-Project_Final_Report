@@ -175,3 +175,4 @@ The coding period of 10 weeks had been amazing as it gave me exposure to real-li
 For any other information about the project, we can always get connected over at 
 - [LinkedIn](https://www.linkedin.com/in/nikita-mahoviya-28034b171/) 
 - [Github](https://github.com/nikitamahoviya) 
+
